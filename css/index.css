@@ -681,23 +681,23 @@ canvas {
 
 
 #services .color-one{
-	color: #58AFF3;
-	border-color: #58AFF3;
+	color: #02b4e1;
+	border-color: #02b4e1;
 }
 #services .background-one{
-	background: #58AFF3;
+	background: #02b4e1;
 }
 #services .color-three{
-	color:#5D60D9;
+	color:#2bd77f;
 }
 #services .background-three{
-	background:#5D60D9;
+	background:#2bd77f;
 }
 #services .color-two{
-	color:#D36D21;
+	color:#103bdb;
 }
 #services .background-two{
-	background:#D36D21
+	background:#103bdb
 }
 #services .service .service-text .service-case-study:hover{
  color:rgb(235,235,235);
